@@ -28,13 +28,7 @@ Airline Reservation systems has a set of benefits. Here are few of them:
     - Reserve airline.
     - Cancel flight.
     - Display airline records.
-    - Exit.
-
-## Swot Analysis
-
-![Description](https://github.com/Annapoornarb/Stepin_Airline-Reservation/blob/main/1_Requirements/swot_analysis.png)
-
-
+    - Exit
 # Detail requirements
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
